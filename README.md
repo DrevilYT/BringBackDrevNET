@@ -1,5 +1,14 @@
-# BringBackDrevNET
+## BringBackDrevNET
 DrevNET as you know it. Except, you have to host the server yourself, manually.
 
 ## Powershell (7 or above)
-sd
+- cd Downloads (or any directory you want it to be in)\
+- curl -L -o DrevNET.zip "https://web.archive.org/web/20231219125250/https://dl.dropboxusercontent.com/scl/fi/76u7ysnz4c3mjqjh17ry1/DrevNET.zip?rlkey=y8acl7pg7clz8i7srn12gglg8&dl=0"
+
+## Root Urls
+- Drev Server (Dropbox Buiseness/Enterprise): https://web.archive.org/web/20231219125250/https://dl.dropboxusercontent.com/scl/fi/76u7ysnz4c3mjqjh17ry1/DrevNET.zip?rlkey=y8acl7pg7clz8i7srn12gglg8&dl=0
+- Github Server: not found/available
+
+## Credits
+- DrevilYT - Creator of DrevNET
+- Waybackmachine - Saving archives of the old download links (the ones provided above)

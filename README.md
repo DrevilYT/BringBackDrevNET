@@ -13,10 +13,6 @@
 - Github Server: https://web.archive.org/web/20231219125108/https://codeload.github.com/DrevilYT/DrevNET/zip/refs/heads/main (exe excluded as usual)
 - DrevNET in-app source code: https://web.archive.org/web/20231218205211/https://drev.rf.gd/drevnet (kinda broken atm)
 
-## Credits
-- DrevilYT - Creator of DrevNET
-- Waybackmachine - Saving archives of the old download links (the ones provided above)
-
 ## Info
 - None of the urls or links are hosted by Drevil. (not anymore)
 - They were saved by WaybackMachine.
@@ -29,6 +25,10 @@
 - But still, some games such as GTA V will not work due to their own licensing.
 - Other big games like GTA V wont work aswell.
 - Just use Steam or Epic or some shit like that man.
+
+## Credits
+- DrevilYT - Creator of DrevNET
+- Waybackmachine - Saving archives of the old download links (the ones provided above)
 
 ## Licensing
 - Since DrevNET is no longer owned by me, go do whatever the fuck you want with it. :)

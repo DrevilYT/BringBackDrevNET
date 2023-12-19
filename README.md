@@ -13,3 +13,9 @@
 ## Credits
 - DrevilYT - Creator of DrevNET
 - Waybackmachine - Saving archives of the old download links (the ones provided above)
+
+## Info
+- None of the urls or links are hosted by Drevil. (not anymore)
+- They were saved by WaybackMachine.
+- They might or might not be safe. It's all in the hands of WaybackMachine.
+- These urls could go down anytime. (again, it's in the hands of WaybackMachine)

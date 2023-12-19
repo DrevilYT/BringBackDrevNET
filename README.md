@@ -19,3 +19,6 @@
 - They were saved by WaybackMachine.
 - They might or might not be safe. It's all in the hands of WaybackMachine.
 - These urls could go down anytime. (again, it's in the hands of WaybackMachine)
+
+## Licensing
+- Since DrevNET is no longer owned by me, go do whatever the fuck you want with it. :)

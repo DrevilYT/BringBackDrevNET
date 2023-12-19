@@ -32,3 +32,5 @@
 
 ## Licensing
 - Since DrevNET is no longer owned by me, go do whatever the fuck you want with it. :)
+- You could even make your server public and republish DrevNET on Github or something as your own.
+- Maybe even make DrevNET Mobile man. I dont give a shit.

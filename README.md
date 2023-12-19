@@ -1,5 +1,5 @@
 ## BringBackDrevNET
-DrevNET as you know it. Except, you have to host the server yourself, manually.
+- DrevNET as you know it. Except, you have to host the server yourself, manually.
 
 ## Powershell (7 or above)
 - cd Downloads (or any directory you want it to be in)\

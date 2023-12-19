@@ -28,7 +28,7 @@
 - However, you can portfoward your server and send it to other people to play with them.
 - But still, some games such as GTA V will not work due to their own licensing.
 - Other big games like GTA V wont work aswell.
-- Just use Steam or some shit man.
+- Just use Steam or Epic or some shit like that man.
 
 ## Licensing
 - Since DrevNET is no longer owned by me, go do whatever the fuck you want with it. :)

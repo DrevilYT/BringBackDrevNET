@@ -6,6 +6,7 @@ DrevNET as you know it. Except, you have to host the server yourself, manually.
 - curl -L -o DrevNET.zip "https://web.archive.org/web/20231219125250/https://dl.dropboxusercontent.com/scl/fi/76u7ysnz4c3mjqjh17ry1/DrevNET.zip?rlkey=y8acl7pg7clz8i7srn12gglg8&dl=0"
 
 ## Root Urls
+- Old DrevNET Github Page: https://web.archive.org/web/20231219124954/https://github.com/DrevilYT/DrevNET
 - Drev Server (Dropbox Buiseness/Enterprise): https://web.archive.org/web/20231219125250/https://dl.dropboxusercontent.com/scl/fi/76u7ysnz4c3mjqjh17ry1/DrevNET.zip?rlkey=y8acl7pg7clz8i7srn12gglg8&dl=0
 - Github Server: not found/available
 
